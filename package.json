@@ -1,0 +1,11 @@
+{
+  "name": "Hello World",
+  "version": "1",
+  "description": "desktop app",
+  "main": "main.js",
+  "author": "Emmanuel Adekunle-Oni",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.2.3"
+  }
+}
